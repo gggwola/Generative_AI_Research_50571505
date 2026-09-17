@@ -152,7 +152,7 @@ only when the corresponding change has been merged.
 
 | Role | Name | GitHub |
 |---|---|---|
-| Repository owner | *your name* | `@your-username` |
+| Repository owner | @gggwola | `@gggwola` |
 | Code reviewer | | |
 | Developer | | |
 | Developer | | |
