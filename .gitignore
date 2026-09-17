@@ -1,0 +1,32 @@
+# ---- Sensitive / identifiable research data: never commit ----
+02_Quantitative_Analysis/Data_Raw_RESTRICTED/*
+03_Qualitative_Analysis/Transcripts_Raw_RESTRICTED/*
+03_Qualitative_Analysis/Consent_Forms_RESTRICTED/*
+!**/.gitkeep
+!**/README.md
+
+# ---- Large / derived media ----
+*.mp4
+*.mov
+*.wav
+
+# ---- OS clutter ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Office temp files ----
+~$*
+*.tmp
+
+# ---- Python ----
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+
+# ---- R ----
+.Rhistory
+.RData
+.Rproj.user/

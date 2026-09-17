@@ -1,0 +1,8 @@
+Project logbook - Using Generative AI Tools: Boon or Bane
+=========================================================
+Line 1: Repository created and folder structure established.
+Line 2: Literature review folder populated with initial sources.
+Line 3: Survey instrument drafted and reviewed by the team.
+Line 4: [Developer A - edit this line]
+Line 5: [Developer B - edit this line]
+Line 6: [Conflict exercise - both developers edit this line]

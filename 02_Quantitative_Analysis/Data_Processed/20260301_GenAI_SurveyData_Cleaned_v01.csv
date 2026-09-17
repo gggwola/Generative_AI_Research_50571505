@@ -1,0 +1,4 @@
+respondent_id,age_group,uses_genai,perceived_benefit,perceived_risk
+P01,18-24,Yes,4,3
+P02,25-34,Yes,5,2
+P03,35-44,No,2,4
